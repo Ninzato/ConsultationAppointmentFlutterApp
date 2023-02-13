@@ -1,16 +1,44 @@
-# appointment_project
+*Ridza Kalimanto 1810595*
 
-A new Flutter project.
+# Consultation Appointment Flutter App
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+This app is an appointment booking app that is created with the aim to make appointment with teacher very easy. Student will be able to make an appeal for consultation, and teacher will be able to approve or reject the appointment.
 
-A few resources to get you started if this is your first Flutter project:
+## Objective
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project aims to make it simple to create appointment with teacher. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+These days, the most common way to make an appointment with our teacher is to either make a reservation after the class ended or contact him/her through social media/email.
+
+Unfortunately, these two approach have their own limitations and hassle.
+
+For the first approach, the students will most likely forget to make a reservation as they are tired after having a class.
+
+As for the second approach, more often than not, students appeal will be buried deep within other chats/emails on the teacher's phone.
+
+Thus, by creating an app which sole purpose is for consultation reservation, both students and teachers can manage their consulation from the comfort of their own smartphone.
+
+## Features and functionalities
+
+-[x] User Authentication using Firebase
+-[ ] Different roles routing
+-[x] Logout function
+-[x] Create new appointment
+-[x] Delete appointment
+-[x] Approve or reject appointment
+-[x] Generate QR Code
+-[x] Scan QR Code
+-[] Scan QR Code for attendance
+
+## References
+
+Below are some of the references that I used throughout the making of this application
+
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Mitch Koko Youtube Channel](https://www.youtube.com/@createdbykoko)
+- [Flutter Mapp Youtube Channel](https://www.youtube.com/@FlutterMapp)
+- [Hey Flutter Youtube Channel](https://www.youtube.com/@HeyFlutter)
+- [Stack Overflow - Already lost track which pages I went through](https://stackoverflow.com/)
+- [Google - to represent other forums that I went in and checked](https://www.google.com)
