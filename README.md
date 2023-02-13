@@ -23,14 +23,11 @@ Thus, by creating an app which sole purpose is for consultation reservation, bot
 ## Features and functionalities
 
 -[x] User Authentication using Firebase
--[ ] Different roles routing
+-[x] Different roles routing
 -[x] Logout function
 -[x] Create new appointment
 -[x] Delete appointment
 -[x] Approve or reject appointment
--[x] Generate QR Code
--[x] Scan QR Code
--[] Scan QR Code for attendance
 
 ## References
 
@@ -42,3 +39,6 @@ Below are some of the references that I used throughout the making of this appli
 - [Hey Flutter Youtube Channel](https://www.youtube.com/@HeyFlutter)
 - [Stack Overflow - Already lost track which pages I went through](https://stackoverflow.com/)
 - [Google - to represent other forums that I went in and checked](https://www.google.com)
+
+## Routing Diagram
+![alt text](assets/images/routing-diagram.jpeg)
